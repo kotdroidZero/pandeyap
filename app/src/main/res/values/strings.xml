@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PandyaP</string>
+    <string name="no_internet">enter connection filed</string>
+    <string name="retrofit_failure">retrofit please try again later !</string>
+</resources>
